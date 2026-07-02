@@ -1,4 +1,4 @@
-# <center>Interstellar Radaiation Drive</center>
+# <center>Interstellar Radiation Drive</center>
 ### <center>Dhritiman Abhijit Roychoudhury</center>
 #### <center> rc.dhritiman.official@outlook.com </center>
 <center> July 1, 2026 </center>
